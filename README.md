@@ -71,4 +71,4 @@ I’ve worked from control rooms to code editors — bringing structure, communi
 ## 📫 Get in Touch
 Feel free to reach out via <a href="https://www.linkedin.com/in/lbalmeida" target="_blank">LinkedIn</a>.
 
-<!-- Optional GIF or image --> <p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Coding gif" /> </p> ```
+<!-- Optional GIF or image --> <p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="75" alt="Coding gif" /> </p> ```
