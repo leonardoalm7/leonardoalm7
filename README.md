@@ -44,10 +44,10 @@ I’m now focused on expanding my skills in **Software Development** — combini
 ## 📊 Experience Timeline
 
 ```text
-Software Engineer, Mercado Livre         Nov 2023 - Present
+Senior Software Engineer, Mercado Livre  Nov 2023 - Present
 CX Team Leader, Mercado Livre            Mar 2022 - Nov 2023
 Operations Supervisor, E-Vertical        Jun 2019 - Feb 2022
-Sr. Technician, E-Vertical               Apr 2018 - Jun 2019
+Senior Technician, E-Vertical            Apr 2018 - Jun 2019
 Technician, E-Vertical                   Apr 2015 - Apr 2018
 ```
 
