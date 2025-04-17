@@ -31,13 +31,17 @@ I’m now focused on expanding my skills in **Software Development** — combini
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack & Github Stats
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+![leonardoalm7's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoalm7&show_icons=true&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalm7&layout=compact)
 
 ---
 
