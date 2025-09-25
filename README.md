@@ -14,8 +14,8 @@
 
 ## 🧠 About Me
 
-- 🎓 **Bachelor in Electrical Engineering**
-- 🌍 🇧🇷 🇪🇸 🇬🇧 Fluent in Portuguese | B2 Spanish | B1 English
+- 🎓 **MBA in Software Engineering | Bachelor in Electrical Engineering**
+- 🌍 🇧🇷 🇪🇸 🇬🇧 Fluent in Portuguese and Spanish | Professional English
 - 🛠️ Skills: Excel (Advanced), SQL, Python, JavaScript, Git, GitHub
 - 🚀 Working on projects using **SCRUM**, **Kanban**, and **Data Analysis**
 - 🔧 Former leader in **Customer Experience** and **Operations Supervisor**
