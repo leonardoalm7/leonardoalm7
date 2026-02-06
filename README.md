@@ -15,7 +15,7 @@ I am currently leading the architectural design of a comprehensive technical cas
 ---
 
 ### 💻 Professional Expertise & Stack
-![Mercado Livre](https://img.shields.io/badge/Mercado%20Livre-FFE600?style=for-the-badge&logo=mercadolibre&logoColor=black)
+![ecommerce](https://img.shields.io/badge/E%20Commerce-FFE600?style=for-the-badge&logo=mercadolibre&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
