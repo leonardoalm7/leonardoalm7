@@ -5,7 +5,7 @@
 ---
 
 ### 🛠️ Current Focus: Advanced System Design & Logistics
-I am currently leading the architectural design of a comprehensive technical case study for a **Compliance Sanitary as a Service (CSaaS)** ecosystem focused on the aviation industry.
+I am currently leading the architectural design of a comprehensive technical case study for a **Compliance Sanitary as a Service (CSaaS)** ecosystem focused on the aviation industry. I'm a Co-Founder & COO on this project, alongside a 4-person team from my MBA at FIAP.
 
 * **Architectural Leadership**: Applying **Domain-Driven Design (DDD)** to model complex international regulatory requirements and subdomains.
 * **Operational Optimization**: Designing workflows aimed at a **40% reduction in airport check-in processing time**.
